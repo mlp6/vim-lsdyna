@@ -14,6 +14,7 @@ INSTALL
 
 ```
 autocmd BufRead,BufNewFile *.dyn set filetype=lsdyna
+autocmd BufRead,BufNewFile *.k set filetype=lsdyna
 ```
 
 TODO
