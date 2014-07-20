@@ -20,6 +20,7 @@ autocmd BufRead,BufNewFile *.k set filetype=lsdyna
 TODO
 ----
 * Keyword code folding
+* More graceful filetype detection
 
 LICENSE
 -------
